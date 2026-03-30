@@ -1,4 +1,4 @@
-📊 #Projeto: Análise e Estruturas de Dados — Listas Estáticas e Dinâmicas
+📊 # Projeto: Análise e Estruturas de Dados — Listas Estáticas e Dinâmicas
 
 📖 Descrição
 
